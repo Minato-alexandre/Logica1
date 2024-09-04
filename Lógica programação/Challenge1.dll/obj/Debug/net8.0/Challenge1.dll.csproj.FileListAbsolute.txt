@@ -1,0 +1,4 @@
+D:\Challenge1.dll\obj\Debug\net8.0\Challenge1.dll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge1.dll\obj\Debug\net8.0\Challenge1.dll.AssemblyInfoInputs.cache
+D:\Challenge1.dll\obj\Debug\net8.0\Challenge1.dll.AssemblyInfo.cs
+D:\Challenge1.dll\obj\Debug\net8.0\Challenge1.dll.csproj.CoreCompileInputs.cache

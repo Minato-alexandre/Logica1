@@ -1,0 +1,42 @@
+Utilizando separação de arquivos, crie 4 arquivos (Program, Player, NPC e Combat) para o seguinte cenário:
+
+Crie Seu Próprio Herói e Enfrente o Desafiante Gerald!
+
+Contexto:
+
+Em um mundo fantástico, onde heróis e vilões se enfrentam em batalhas épicas, você foi escolhido para criar seu próprio herói e enfrentá-lo contra o temível Gerald, o Guerreiro Imbatível. Gerald protege o Reino dos Sete Ventos há anos, e agora é sua chance de desafiar seu reinado!
+
+Sua Missão:
+
+Crie Seu Herói:
+
+Nome do Herói: O nome de um herói é importante! Escolha com sabedoria.
+Escolha a Classe:
+Guerreiro: Fortes e destemidos, guerreiros recebem +20 de vida.
+Assassino: Rápidos e silenciosos, assassinos recebem +10 de vida.
+Bárbaro: Selvagens e poderosos, bárbaros recebem +30 de vida.
+Escolha a Arma:
+Machado: Um machado pesado que adiciona +3 de ataque.
+Espada: Uma espada afiada que adiciona +2 de ataque.
+Adaga: Uma adaga rápida que adiciona +1 de ataque.
+Enfrente Gerald:
+
+NPC Gerald:
+Nome: Gerald, o Guerreiro Imbatível.
+Classe: Guerreiro com Espada.
+Vida: 120 HP
+Ataque: +2 com a Espada
+Regras da Batalha:
+
+A vida do seu herói começa com 100 HP, e o valor é incrementado conforme a classe escolhida.
+Gerald está pronto para a batalha, com sua vida e ataque já definidos.
+Dano de Ataque: A cada rodada, um ataque é realizado, e o dano é determinado por um valor aleatório entre 0 e 30, somado ao bônus de ataque da arma.
+A Luta: Em cada rodada, o console mostrará o dano causado e a vida atual de ambos os combatentes. O combate continua até que a vida de um deles chegue a zero (ou menos).
+Desfecho Épico: Quando a batalha terminar, o console exibirá uma mensagem declarando o vencedor e o derrotado.
+Desafio Adicional:
+
+Mecânica de Defesa (Opcional): Se você quiser tornar o jogo mais interessante, adicione uma mecânica de defesa onde o herói ou Gerald pode defender um ataque, reduzindo o dano pela metade.
+Instruções Técnicas:
+
+Estruture seu código utilizando classes estáticas para o Player, NPC, e Combat.
+Dica: Crie mensagens e narrações criativas para cada golpe e resultado, como "Gerald desfere um poderoso golpe com sua espada, mas o herói bloqueia com agilidade!".
